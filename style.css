@@ -175,6 +175,7 @@ a { color: inherit; text-decoration: none; }
 .results-downloads p { margin: 0 0 .25rem; color: var(--muted); font-size: .62rem; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; }
 .results-downloads a { width: fit-content; padding-bottom: .15rem; border-bottom: 1px solid var(--line); font-size: .7rem; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; }
 .results-figure { margin: 0; border: 1px solid var(--line); background: var(--paper); }
+.results-figures { display: grid; gap: 1.5rem; }
 .results-figure img { width: 100%; height: auto; }
 .results-figure figcaption { padding: .8rem 1rem; border-top: 1px solid var(--line); color: var(--muted); font-size: .65rem; line-height: 1.5; }
 .results-return { padding: clamp(5rem,9vw,9rem) var(--gutter); background: var(--paper); text-align: center; }
