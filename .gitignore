@@ -20,3 +20,7 @@ dist/
 
 # Original high-resolution photographs
 images/
+
+# Private survey data and analysis
+data/
+scripts/
